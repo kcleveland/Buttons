@@ -2,6 +2,9 @@
  * Globals
  */
 
+/* Using "Lato" font from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300');
+
 /* Links */
 a,
 a:focus,
@@ -31,10 +34,8 @@ body {
 }
 
 body {
-  /*display: -ms-flexbox;
-  display: -webkit-box;
-  display: flex;
-  -ms-flex-pack: center;*/
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
   -webkit-box-pack: center;
   justify-content: center;
 }
@@ -46,6 +47,10 @@ body {
 
 h1,h2,h3,h4 {
     color: #a9adb1;
+}
+
+.sub-heading {
+    font-weight: 100;
 }
 
 .text-shadow {
