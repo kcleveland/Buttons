@@ -35,13 +35,13 @@ body {
 
 body {
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-weight: 100;
   -webkit-box-pack: center;
   justify-content: center;
 }
 
 .background-light {
-    margin-top: 60px;
+    padding-top: 60px;
     background: #ffffff;
 }
 
