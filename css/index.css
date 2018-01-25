@@ -42,9 +42,13 @@ body {
 }
 
 .background-light {
+    margin-top: 60px;
     background: #ffffff;
 }
 
+h1,h2,h3,h4 {
+    color: #a9adb1;
+}
 
 /*
  * Header
@@ -90,6 +94,7 @@ body {
 
 .cover-heading {
     margin-top: 20px;
+    color: #ffffff;
 }
 
 
