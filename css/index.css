@@ -37,8 +37,6 @@ body {
   -ms-flex-pack: center;*/
   -webkit-box-pack: center;
   justify-content: center;
-  color: #fff;
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 }
 
 .background-light {
@@ -48,6 +46,14 @@ body {
 
 h1,h2,h3,h4 {
     color: #a9adb1;
+}
+
+.text-shadow {
+    text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+}
+
+.text-white {
+    color: #ffffff;
 }
 
 /*
