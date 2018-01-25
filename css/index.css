@@ -46,11 +46,16 @@ body {
 }
 
 h1,h2,h3,h4 {
-    color: #a9adb1;
+    color: #776F70;
+    font-weight: 100;
 }
 
-.sub-heading {
+.thin-text {
     font-weight: 100;
+}
+
+.normal-text {
+    font-weight: 300;
 }
 
 .text-shadow {
