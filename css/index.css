@@ -155,6 +155,7 @@ pre.prettyprint {
   background: #ffffff;
   font-family: Menlo, "Bitstream Vera Sans Mono", "DejaVu Sans Mono", Monaco, Consolas, monospace;
   border: 0 !important;
+  text-align: left;
 }
 
 .pln {
