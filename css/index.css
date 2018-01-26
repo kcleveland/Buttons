@@ -142,12 +142,17 @@ h1,h2,h3,h4 {
 }
 
 /*
-* Codebox Module
+* Google code prettify
 *
 */
+.codebox {
+  margin-top: 20px;
+}
+
 pre.prettyprint {
   border: 1px solid #ecf0f1 !important;
   border-radius: 4px;
+  padding: 20px;
 }
 
 /*! Color themes for Google Code Prettify | MIT License | github.com/jmblog/color-themes-for-google-code-prettify */
@@ -166,7 +171,7 @@ pre.prettyprint {
 ol.linenums {
   margin-top: 0;
   margin-bottom: 0;
-  color: #8e908c;
+  color: #bae1fe;
 }
 
 li.L0,
