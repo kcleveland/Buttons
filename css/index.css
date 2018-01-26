@@ -146,6 +146,6 @@ h1,h2,h3,h4 {
 *
 */
 pre.prettyprint {
-  border: 1px solid #ecf0f1;
+  border: 1px solid #ecf0f1 !important;
   border-radius: 4px;
 }
