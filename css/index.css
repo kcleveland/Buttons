@@ -149,6 +149,15 @@ h1,h2,h3,h4 {
   margin-top: 20px;
 }
 
+.button {
+  margin: 5px;
+}
+
+.examples {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 pre.prettyprint {
   border: 1px solid #ecf0f1 !important;
   border-radius: 4px;
