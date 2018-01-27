@@ -115,7 +115,7 @@ h1,h2,h3,h4 {
 }
 
 .cover-heading {
-    margin-top: 20px;
+    margin-top: 30px;
     color: #ffffff;
     font-family: 'Fontdiner Swanky', cursive;
 }
@@ -183,7 +183,7 @@ pre.prettyprint {
 ol.linenums {
   margin-top: 0;
   margin-bottom: 0;
-  color: #bae1fe;
+  color: #229ffd;
 }
 
 li.L0,
