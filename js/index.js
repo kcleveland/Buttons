@@ -29,7 +29,7 @@ $(document).ready(function(){
         });
   
         // Intialize Pretty Print
-        //prettyPrint();
+        PR.prettyPrint();
       },
   
       _encodeHTML: function(str) {
