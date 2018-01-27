@@ -14,7 +14,7 @@ $(document).ready(function(){
   
         $('.showcase-content').each(function(index, element) {
           var $showcase = $(element);
-          var title = $showcase.toUpperCase().find('.showcase-title:first').text();
+          var title = $showcase.find('.showcase-title:first').text();
           var id = title.toLowerCase().replace(/\s*(\&amp;)*/gi, '');
           var code = $showcase.find('.showcase-examples:first').html();
   

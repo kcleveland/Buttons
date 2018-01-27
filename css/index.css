@@ -47,7 +47,7 @@ body {
     background: #ffffff;
 }
 
-h1,h2,h3,h4 {
+h1,h2,h3,h4,h5 {
     color: #776F70;
     font-weight: 100;
 }
@@ -163,7 +163,7 @@ h1,h2,h3,h4 {
   margin-bottom: 20px;
 }
 
-h3.codebox-title {
+h5.codebox-title {
   text-align: left;
   border-bottom: 1px solid #ecf0f1;
 }
