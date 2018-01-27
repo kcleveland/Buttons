@@ -150,6 +150,8 @@ h1,h2,h3,h4 {
 */
 .codebox {
   margin-top: 20px;
+  border-bottom: 1px solid #ecf0f1;
+  border-radius: 4px;
 }
 
 .examples .button {
@@ -161,9 +163,12 @@ h1,h2,h3,h4 {
   margin-bottom: 20px;
 }
 
+.codebox-title {
+  text-align: left;
+  border-bottom: 1px solid #ecf0f1;
+}
+
 pre.prettyprint {
-  border: 1px solid #ecf0f1 !important;
-  border-radius: 4px;
   padding: 20px;
 }
 
