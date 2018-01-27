@@ -160,6 +160,7 @@ h1,h2,h3,h4,h5 {
   margin-top: 30px;
   border: 1px solid #ecf0f1;
   border-radius: 4px;
+  background: #ffffff;
 }
 
 .examples .button {
