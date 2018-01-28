@@ -172,6 +172,10 @@ h1,h2,h3,h4,h5 {
   margin: 0px;
 }
 
+.examples .button-group .button {
+  margin: 0px;
+}
+
 .examples {
   margin-top: 20px;
   margin-bottom: 20px;
