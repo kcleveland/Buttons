@@ -3,6 +3,7 @@ An extensible CSS button library built with SASS.
 
 ## Usage
 <pre>
+<code>
 <!-- Buttons compiled CSS -->
 <link rel="stylesheet" href="css/buttons.css">
  
@@ -12,6 +13,7 @@ An extensible CSS button library built with SASS.
  
 <!-- Use only if you want FontAwesome icons -->
 <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</code>
 </pre>
 
 ## Customization
