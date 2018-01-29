@@ -2,15 +2,17 @@
 An extensible CSS button library built with SASS.
 
 ## Usage
-`<!-- Buttons compiled CSS -->`
-`<link rel="stylesheet" href="css/buttons.css">`
+<pre>
+<!-- Buttons compiled CSS -->
+<link rel="stylesheet" href="css/buttons.css">
  
-`<!-- Use only if you need support for the dropdown menus -->`
-`<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>`
-`<script type="text/javascript" src="js/buttons.js"></script>`
+<!-- Use only if you need support for the dropdown menus -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="js/buttons.js"></script>
  
-`<!-- Use only if you want FontAwesome icons -->`
-`<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">`
+<!-- Use only if you want FontAwesome icons -->
+<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+</pre>
 
 ## Customization
 1. Clone the repo.
