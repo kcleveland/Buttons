@@ -2,7 +2,9 @@
     "name": "buttons",
     "version": "1.0",
     "devDependencies": {
-        "grunt": "^1.0.1",
+        "grunt": "^1.0.1"
+    },
+    "dependencies": {
         "grunt-contrib-sass": "^1.0.0"
     }
 }
